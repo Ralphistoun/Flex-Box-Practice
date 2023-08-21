@@ -1,0 +1,25 @@
+.flex-container{
+  display: flex;
+  flex: 1;
+  flex-direction: row;
+  min-width: 20px;
+  justify-content: space-between;
+}
+
+#three{
+  background-color: rgb(233, 230, 64); border: solid firebrick;
+}
+
+#one{
+  margin-top: 30px;
+  padding-right: 200px;
+  background-color: beige;
+  border: dotted 20px gray;
+}
+
+#two{
+  margin-top: 30px; 
+  padding-right: 200px;
+  background-color: lightcoral;
+  border: double 20px red;
+}
